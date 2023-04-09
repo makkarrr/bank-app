@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
         // we'll be creating a bank app today
         // features to be added -
-        // 0. create bank account
-        // 1. withdraw balance
-        // 2. add balance
-        // 3. check balance
+        // 1. create bank account
+        // 2. withdraw balance
+        // 3. add balance
+        // 4. check balance
         System.out.println("first project - bank app");
     }
 }
